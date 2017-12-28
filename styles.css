@@ -48,6 +48,32 @@ table {
 }
 /* reset template end - start for Ivan's CSS */
 
+/*top navigation */
+body {
+	font-family: arial, sans-serif;
+}
+
+ul {
+	position: absolute;
+}
+
+ul li {
+	display: inline-block;
+	padding-right: 30px;
+}
+
+li a {
+	text-decoration: none;
+	color: black;
+	font-size: 13px;
+}
+
+li a:hover {
+	border-bottom: 1px solid black;
+}
+
+
+
 .googlelogo {
   text-align: center;
 }
@@ -62,4 +88,12 @@ form {
   color: rgb(34, 34, 34);
   font-family: arial, sans-serif;
   font-size: 13px;
+}
+
+#googlelanguages a {
+	text-decoration: none;
+}
+
+#googlelanguages a:hover {
+	border-bottom: 1px solid;
 }
