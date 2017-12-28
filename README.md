@@ -12,4 +12,5 @@ From The Odin Project's <a href="http://www.theodinproject.com/courses/web-devel
   <li>Create a Text Field;</li>
   <li>Align the Google Logo; and</li>
   <li>Upload and control with GIT.</li>
+  <li>Add personal touches to the website (Personal Objective)</li>
 </ul>
