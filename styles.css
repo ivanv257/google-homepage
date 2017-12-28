@@ -47,3 +47,14 @@ table {
 	border-spacing: 0;
 }
 /* reset template end - start for Ivan's CSS */
+
+.googlelogo {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+
+#googlelanguages {
+  text-align: center;
+}
