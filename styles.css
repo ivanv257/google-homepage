@@ -82,6 +82,8 @@ form {
   text-align: center;
 }
 
+
+
 #googlelanguages {
   margin-top: 12px;
   text-align: center;
@@ -96,4 +98,39 @@ form {
 
 #googlelanguages a:hover {
 	border-bottom: 1px solid;
+	cursor: pointer;
+}
+
+footer {
+	position: absolute;
+	height: 35px;
+	width: 100%;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	background-color: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+}
+
+footer p {
+	margin-left: 30px;
+	color: rgba(0,0,0,.54);
+}
+
+footer ul {
+	font-size: 10pt;
+	color: rgba(0,0,0,.54);
+}
+
+footer li {
+	margin-left: 30px;
+}
+
+footer li a {
+	color: rgba(0,0,0,.54);
+}
+
+footer li a:hover {
+	border-bottom: 1px solid rgba(0,0,0,.54);
 }
