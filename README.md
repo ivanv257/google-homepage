@@ -12,6 +12,6 @@ From The Odin Project's <a href="http://www.theodinproject.com/courses/web-devel
   <li>Use the browsers developer tools to deconstruct an existing web page and rebuild it;</li>
   <li>Create a Text Field;</li>
   <li>Align the Google Logo; and</li>
-  <li>Upload and control with GIT.</li>
-  <li>Add personal touches to the website (Personal Objective)</li>
+  <li>Upload and control with GIT; and</li>
+  <li>Add personal touches to the website (Personal Objective).</li>
 </ul>
