@@ -77,8 +77,6 @@ body {
 	border-bottom: 1px solid black;
 }
 
-
-
 .googlelogo {
   text-align: center;
 	padding-top: 150px;
@@ -93,7 +91,7 @@ form input {
 	width: 428px;
 	height: 38px;
 }
-
+/* button for google search and I'm Feeling Lucky */
 
 button {
 	border: none;
@@ -121,6 +119,7 @@ button:hover {
 	margin-left: 5px;
 }
 
+/* Google Languages */
 
 #googlelanguages {
   margin-top: 12px;
