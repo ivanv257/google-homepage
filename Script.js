@@ -1,4 +1,4 @@
-/* Pop Up Window using if else conditions*/
+// Pop Up Window using if else conditions
 let myPopUpWindow = true;
 
 if (myPopUpWindow === true){
@@ -7,7 +7,7 @@ if (myPopUpWindow === true){
   window.alert("The statement is false");
 }
 
-/* Message inserted into the console log using if else conditions*/
+// Message inserted into the console log using if else conditions
 let myConsolePrint = true;
 
 if (myConsolePrint = 1){
