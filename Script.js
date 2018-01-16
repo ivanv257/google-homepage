@@ -10,7 +10,7 @@ if (myPopUpWindow === true){
 // Message inserted into the console log using if else conditions
 let myConsolePrint = true;
 
-if (myConsolePrint = 1){
+if (myConsolePrint){
 console.log("This is Ivan's solution for Google");
 } else {
 console.log("The statement returned false");
