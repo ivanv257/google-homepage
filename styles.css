@@ -138,6 +138,7 @@ button:hover {
 	cursor: pointer;
 }
 
+/* Footer containing countries for Google */ 
 footer {
 	position: absolute;
 	height: 35px;
