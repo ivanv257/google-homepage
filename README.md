@@ -16,5 +16,3 @@ From The Odin Project's <a href="http://www.theodinproject.com/courses/web-devel
 
 
 </ul>
-
-<blockquote>JavaScript If Else statements added for testing purposes.</blockquote>
