@@ -1,4 +1,4 @@
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" alt="google logo" height="100" width="100" text-align="center">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" alt="google logo" height="100" width="100">
 
 <h1>Recreate the Google home page</h1>
 
