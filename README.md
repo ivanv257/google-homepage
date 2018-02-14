@@ -2,7 +2,7 @@
 
 <h1>Recreate the Google home page</h1>
 
-Student: Ivan van der Merwe <br>
+Developer: Ivan van der Merwe <br>
 Date started:  27 December 2017 <br>
 From The Odin Project's <a href="http://www.theodinproject.com/courses/web-development-101/lessons/html-css">Curriculum</a>
 
